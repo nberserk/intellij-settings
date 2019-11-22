@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IC-191.7479.19" />
+    <option name="LAST_TIME_CHECKED" value="1574401345571" />
+    <pluginHosts>
+      <item value="https://jetbrains.corp.amazon.com/" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
