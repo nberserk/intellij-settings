@@ -1,4 +1,9 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorKillToWordEnd" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
