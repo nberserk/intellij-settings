@@ -3,9 +3,6 @@
     <keyboard-shortcut first-keystroke="ctrl delete" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-  </action>
   <action id="EditorKillToWordEnd" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="alt x" />
