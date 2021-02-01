@@ -2,9 +2,11 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl underscore" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="shift ctrl underscore" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="ctrl delete" />
