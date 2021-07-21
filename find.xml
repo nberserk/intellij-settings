@@ -15,6 +15,7 @@
     <mask>*.drl</mask>
     <mask>*.jsp</mask>
     <mask>*Test.java</mask>
+    <mask>Config</mask>
     <mask>*.java</mask>
   </component>
 </application>
