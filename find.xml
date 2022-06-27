@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cfg" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
@@ -18,5 +19,6 @@
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>Config</mask>
+    <mask>*.cfg</mask>
   </component>
 </application>
