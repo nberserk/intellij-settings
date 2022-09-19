@@ -5,7 +5,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="oldShipmentCompleteEvent" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
       <mapping pattern="currency-units" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="oldData" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
