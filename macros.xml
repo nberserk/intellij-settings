@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Pair">
+      <action id="EditorDown" />
+      <action id="Find" />
+      <shortuct text="ESCAPE" />
+      <action id="Replace" />
+      <action id="Find" />
+      <typing text-keycode="65:0;66:0;83:0;84:0;82:0;65:0;67:0;84:0;77:0;65:0;80:0">abstractmap</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLeft" />
+      <action id="ShowIntentionActions" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
